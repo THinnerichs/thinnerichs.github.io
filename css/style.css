@@ -34,6 +34,21 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+/* code von Mattes */
+<style>
+    #recipes a { padding:15px; float:left; }
+    #recipes a:link { color:#fff; background-color:#0000a0; }
+    #recipes a:visited { color:#fff; background-color:#0000a0; }
+    #recipes a:hover { color:#f6c23a; background-color:#000060; }
+    #recipes a:active { color:#fff; background-color:#00ff00; }
+
+    #recipes_dark a { padding:15px; float:left; }
+    #recipes_dark a:link { color:#000; background-color:#fff; }
+    #recipes_dark a:visited { color:#000; background-color:#fff; }
+    #recipes_dark a:hover { color:#f6c23a; background-color:#fff; }
+    #recipes_dark a:active { color:#000; background-color:#fff; }
+</style>
+
 body {
   margin: 0;
 }
@@ -2761,6 +2776,19 @@ textarea{
 }
 .recipes p {
 	color:#fff;
+}
+
+/* RECIPES SECTION* -------------------------- */
+
+.recipes_dark {
+	background-size:100%;
+	color:#000;
+} 
+.recipes_dark .bwt-offset-top-20 {
+	margin-top:20px;
+}
+.recipes_dark p {
+	color:#000;
 }
 
 /* GALLERY SECTION* -------------------------- */
