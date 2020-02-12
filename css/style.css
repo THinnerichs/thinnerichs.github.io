@@ -2768,6 +2768,7 @@ textarea{
 
 .recipes {
 	background:url(../images/recipies-bg.jpg) no-repeat center;
+    background-repeat: repeat-y;
 	background-size:100%;
 	color:#fff;
 } 
