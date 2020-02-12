@@ -2778,7 +2778,7 @@ textarea{
 	color:#fff;
 }
 
-/* RECIPES SECTION* -------------------------- */
+/* RECIPES_DARK SECTION* -------------------------- */
 
 .recipes_dark {
 	background-size:100%;
@@ -2789,6 +2789,21 @@ textarea{
 }
 .recipes_dark p {
 	color:#000;
+}
+
+
+/* RECIPE_HOME SECTION* -------------------------- */
+
+.recipe_home {
+	background:url(../images/banner-bg.jpg) no-repeat center;
+	background-size:100%;
+	color:#fff;
+} 
+.recipe_home .bwt-offset-top-20 {
+	margin-top:20px;
+}
+.recipe_home p {
+	color:#fff;
 }
 
 /* GALLERY SECTION* -------------------------- */
