@@ -49,6 +49,10 @@ html {
     #recipes_dark a:active { color:#000; background-color:#fff; }
 </style>
 
+.flex-container{
+    display: flex;
+}
+
 body {
   margin: 0;
 }
