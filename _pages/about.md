@@ -1,26 +1,26 @@
 ---
 layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: center
+  image: profile_pic_downsampled.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
+
+title: about
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student for Computer Science at Algorithmics Group and STAR AI Lab at TU Delft with Sebastijan Dumancic [[link](https://sebdumancic.github.io/)] and Neil Yorke-Smith [[link](https://homepage.tudelft.nl/0p6y8/index.html)], researching in the field of program synthesis, neuro-symbolic proofs and reasoning, ontologies and (fuzzy/real) logics, and their application to bioinformatics. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a Guest Researcher in the Bio-Ontology Research Group (BORG) at KAUST with Robert Hoehndorf and the Neural Data Science and Statistical Computing lab (NeurDS) with Nico Scherf at the MPI for CBS.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+

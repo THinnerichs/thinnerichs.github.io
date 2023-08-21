@@ -1,76 +1,70 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "position": "PhD in Computer Science",
+      "name": "Algorithmics Group (with Sebastijan Dumančić and Neil Yorke-Smith), TU Delft, Delft, The Netherlands",
+      "url": "https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics",
+      "startDate": "2022-10-01",
+      "endDate": ""
+    },
+    {
+      "position": "Guest Researcher",
+      "name": "Bio-Ontology Research Group (with Robert Hoehndorf), Computational Bioscience Research Center, KAUST, Saudi Arabia",
+      "url": "https://cemse.kaust.edu.sa/borg",
+      "startDate": "2019-09-01",
+      "endDate": "2022-10-01"
+    },
+    {
+      "position": "Guest Researcher",
+      "name": "Neural Data Science and Statistical Computing lab (with Nico Scherf), MPI for CBS, Germany",
+      "url": "https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing",
+      "startDate": "2021-06-01",
+      "endDate": "2022-10-01"
+    },
+    {
+      "position": "Visiting Researcher",
+      "name": "Department of Physiology, Development and Neuroscience (with Paul Schofield), University of Cambridge, UK",
+      "url": "https://www.pdn.cam.ac.uk/directory/paul-schofield",
+      "startDate": "2022-01-01",
+      "endDate": "2022-03-01"
+    },
+    {
+      "position": "Visiting Researcher",
+      "name": "Deep Learning Theory Group (with Guido Montufar), MPI for MiS, Germany",
+      "url": "https://www.mis.mpg.de/montufar/index.html",
+      "startDate": "2020-02-01",
+      "endDate": "2020-07-01"
+    },
+    {
+      "position": "Student Researcher",
+      "name": "AG Scherf (with Nico Scherf), Institute for Medical Informatics and Biometry, TU Dresden, Germany",
+      "url": "https://tu-dresden.de/med/mf/imb",
+      "startDate": "2019-06-01",
+      "endDate": "2020-12-01"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "TU Dresden, Dresden, Germany",
+      "studyType": "Diploma in Computer Science",
+      "startDate": "2016-10-01",
+      "endDate": "2022-09-01",
       "courses": [
-        "Theory of Relativity"
+        "Supported by the German National Scholarship Foundation and the Brückner \& Jarosch Foundation"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Charite Berlin, Berlin, Germany",
+      "studyType": "Human Medicine Student",
+      "startDate": "2015-10-01",
+      "endDate": "2016-09-01"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []

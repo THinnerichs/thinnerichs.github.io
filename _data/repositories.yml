@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - THinnerichs
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - THinnerichs/DTI-VOODOO
+  - Herb-AI/Herb.jl
+  - MaastrichtU-IDS/biohackathon_ontogan
+  - THinnerichs/MiS-Information-Clustering
+

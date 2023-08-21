@@ -137,9 +137,13 @@ blockquote {
   margin-right: 1rem;
 }
 
+.profile.float-center {
+  margin-left: auto;
+  margin-right: auto;
+}
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 50%;
 
     .address {
       p {
@@ -303,19 +307,22 @@ blockquote {
 
 .social {
   text-align: center;
+  padding-bottom: 40px;
 
   .contact-icons {
     font-size: 4rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        //color: var(--global-text-color);
+        color: #703f5f;
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: #703f5f;
+          //color: var(--global-theme-color);
         }
       }
     }
@@ -394,7 +401,7 @@ footer.sticky-bottom {
 
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
+  text-align: right;
   padding-top: 2rem;
   padding-bottom: 3rem;
 
@@ -1034,3 +1041,31 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.intro {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 3.75em;
+	font-weight: 600;
+  text-align: center;
+  display: flex;
+	flex-direction: column;
+	// min-height: 10vh;
+	justify-content: center;
+	padding: 0 10px;
+  color: #904f6f;
+}
+
+.tagline {
+	font-size: 1.5rem;
+	margin: 0.5rem 2rem;
+	font-weight: 100;
+  display: flex;
+	flex-direction: column;
+	//min-height: 5vh;
+	justify-content: center;
+	padding: 0 10px;
+	text-align: center;
+  color: #904f6f;
+  padding-bottom: 250px;
+}
+
