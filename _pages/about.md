@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student for Computer Science at Algorithmics Group and STAR AI Lab at TU Delft with Sebastijan Dumancic [[link](https://sebdumancic.github.io/)] and Neil Yorke-Smith [[link](https://homepage.tudelft.nl/0p6y8/index.html)], researching in the field of program synthesis, neuro-symbolic proofs and reasoning, ontologies and (fuzzy/real) logics, and their application to bioinformatics. 
+I am a PhD student for Computer Science at [Algorithmics Group and STAR AI Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/) at TU Delft with [Sebastijan Dumancic](https://sebdumancic.github.io/) and [Neil Yorke-Smith](https://homepage.tudelft.nl/0p6y8/index.html), researching in the field of program synthesis, neuro-symbolic proving and reasoning, ontologies and fuzzy logics, and their application to bioinformatics. 
+
+Specifically, I try to combine these fields learning neuro-symbolic representations, thus making logical reasoning accessible to neural networks and 'intuition' accessible to reasoners. 
 
 Previously, I was a Guest Researcher in the Bio-Ontology Research Group (BORG) at KAUST with Robert Hoehndorf and the Neural Data Science and Statistical Computing lab (NeurDS) with Nico Scherf at the MPI for CBS.
 
