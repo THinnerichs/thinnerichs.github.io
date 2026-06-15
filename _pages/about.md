@@ -25,5 +25,5 @@ Specifically, I try to combine these fields learning neuro-symbolic representati
 
 One of my main projects is [`Herb.jl`](https://herb-ai.github.io/) a program synthesis library written in Julia.
 
-Previously, I was a Guest Researcher in the Bio-Ontology Research Group (BORG) at KAUST with Robert Hoehndorf and the Neural Data Science and Statistical Computing lab (NeurDS) with Nico Scherf at the MPI for CBS.
+Previously, I was a Guest Researcher in the [Bio-Ontology Research Group (BORG)](https://borg.kaust.edu.sa/) at KAUST with Robert Hoehndorf and the [Neural Data Science and Statistical Computing lab (NeurDS)](https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing) with Nico Scherf at the MPI for CBS.
 

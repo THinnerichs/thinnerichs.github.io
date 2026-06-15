@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk on neuro-symbolic program synthesis at the USCKI symposium "Neuro ∧ Symbolic ⇒ AI" in Utrecht.
+I gave an invited talk on neuro-symbolic program synthesis at the USCKI symposium "Neuro ∧ Symbolic ⇒ AI" in Utrecht, alongside invited talks by Luc de Raedt and Emile van Krieken.
